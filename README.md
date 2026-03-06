@@ -1,15 +1,15 @@
-# PeakLegacy.github.io
-PeakLegacy Client — Minecraft Java Web Client basado en Eaglercraft, enfocado en rendimiento, PvP clásico y versiones legacy como 1.8.9. Diseñado para correr directamente en el navegador.
-⚠️ **Advertencia:** Este cliente aún está en desarrollo. Algunas funciones pueden no estar disponibles o presentar errores.
-- Compatible con Minecraft Eaglercraft Java 1.8.9
-- Optimizado para Chromebook y PCs de baja potencia
-- Menú personalizable y opciones de calidad gráfica
-- Contadores de FPS, CPS y Ping
-- Integración futura con servidores multijugador
-1. Clona el repositorio:
-2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, VSCode con extensión Java)
-3. Compila y ejecuta
-- Este cliente es solo para **uso educativo y personal**. No fomenta trampas en servidores públicos.
-- No nos hacemos responsables por bloqueos o daños derivados de su uso en servidores de terceros.
-- Requiere Java 8 o superior para ejecutarse correctamente.
-- Algunas funciones todavía pueden fallar o no estar implementadas.
+#PeakLegacy.github.io
+PeakLegacy Client — Minecraft Java Web Client based on Eaglercraft, focused on performance, classic PvP and legacy versions like 1.8.9. Designed to run directly in the browser.
+⚠️ **Warning:** This client is still in development. Some features may not be available or may have errors.
+- Compatible with Minecraft Eaglercraft Java 1.8.9
+- Optimized for Chromebooks and low-power PCs
+- Customizable menu and graphic quality options
+- FPS, CPS and Ping counters
+- Future integration with multiplayer servers
+1. Clone the repository:
+2. Open the project in your favorite IDE (Eclipse, IntelliJ, VSCode with Java extension)
+3. Compile and run
+- This client is for **educational and personal use only**. It does not encourage cheating on public servers.
+- We are not responsible for blockages or damages resulting from its use on third-party servers.
+- Requires Java 8 or higher to run correctly.
+- Some features may still crash or not be implemented.
